@@ -1,2 +1,2 @@
-# wilseypa.github.io
+# wilseyWebpages
 Philip A. Wilsey
